@@ -1,5 +1,6 @@
 # Python-File-Sorter
 Sorts files in subdirectories of the main dir of PFS (Python File Sorter) 
+until 0.2
 
 This is still constantly updating do not expect this to be bug friendly
 It automatically sorts when you run it but before that you need to change what directory you want to sort (Default : Desktop)
