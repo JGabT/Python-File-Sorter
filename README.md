@@ -1,7 +1,8 @@
-# Python-File-Sorter
-Sorts files in subdirectories of the main dir of PFS (Python File Sorter) 
-until 0.2
+Latest Release :: File Sorter 0.3
+# Changelog ::
+# Added Python extension to sort
+# It will also sort the File Sorter 0.3.exe and main.exe to the folder EXE
+# Added 3 Second sort time.
 
-This is still constantly updating do not expect this to be bug friendly
-It automatically sorts when you run it but before that you need to change what directory you want to sort (Default : Desktop)
-Instead of getting paid i will just release my software for free.
+# Known Issues / Bugs
+# .svg files are not sorted.
