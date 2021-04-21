@@ -1,0 +1,13 @@
+Latest Release :: File Sorter 0.3
+to install please go to the wiki section.
+https://github.com/JGabTolentino/Python-File-Sorter/wiki
+
+PythonFileSorter
+====
+description:
+scans directories for new files and sorts it to it's own extension folder
+===
+example:
+user downloads example.exe then chrome auto saves it to Downloads folder (i hate this)
+PythonFileSorter creates an .exe folder for example.exe and moves it.
+
