@@ -1,9 +1,11 @@
 PythonFileSorter
 ====
-description:
-scans directories for new files and sorts it to it's own extension folder
-===
-example:
-user downloads example.exe then chrome auto saves it to Downloads folder (i hate this)
-PythonFileSorter creates an .exe folder for example.exe and moves it.
+Description:
+sorts files in it's own extension directory.
+windows only (might work on linux dunno.)
+====
+Usage:
+open up a windows command prompt
+type python pfs-1.0.py
+voila :0 sorted files in its own directory .py in folder .py, and so on.
 
